@@ -1,4 +1,4 @@
-# The first lab
+# 1 lab
 Variant 60 task:
  
 Create a class "Bank" which contains the fields:
