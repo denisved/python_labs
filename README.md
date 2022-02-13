@@ -1,4 +1,4 @@
-<h1>Repository for NULP Python labs</h1>
+<h1>Python Labs</h1>
 <h3>
 <li>OOP</li>
 <li>Regular Expressions</li>
